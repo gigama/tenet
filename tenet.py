@@ -3,6 +3,8 @@
 tenet.py — Stochastic Hilbert Curve Visualizer
 =======================================================
 Maps a 1-D positional signal onto a 2-D Hilbert space-filling curve.
+Hilbert curves can be traversed forwards or backwards, and at every
+level of recursion it tiles itself — a tenet of its construction.
 
 Input (file or stdin, whitespace/comma-separated, two columns):
     col1  – position along a linear scale, values in [0, MAX]
