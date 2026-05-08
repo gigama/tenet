@@ -410,3 +410,9 @@ as a library rather than a standalone script.
 * **Non-uniform sampling.**  The interpolation is linear in `col1` space, not
   in arc-length along the curve, so signal density is preserved in the `col1`
   dimension but not in the 2-D layout.
+
+---
+
+## License
+
+MIT License - (C) Copyright 2026 Gigama LLC
